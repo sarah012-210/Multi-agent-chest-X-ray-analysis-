@@ -1,0 +1,58 @@
+[
+  {
+    "condition": "No Finding",
+    "text": "No Finding indicates the chest X-ray shows no significant radiographic abnormality across the evaluated categories. A normal study does not rule out early or subtle disease; clinical correlation is still recommended if symptoms are present."
+  },
+  {
+    "condition": "Enlarged Cardiomediastinum",
+    "text": "An enlarged cardiomediastinum refers to widening of the mediastinal silhouette on a frontal chest X-ray. Causes include cardiomegaly, mediastinal masses, lymphadenopathy, aortic aneurysm or dissection, and technical factors like patient rotation or AP projection. Further evaluation with CT is often needed to determine the cause."
+  },
+  {
+    "condition": "Cardiomegaly",
+    "text": "Cardiomegaly is an enlarged cardiac silhouette, typically defined radiographically as a cardiothoracic ratio greater than 0.5 on a PA chest film. Common causes include hypertensive heart disease, valvular disease, cardiomyopathy, and heart failure. It is often accompanied by pulmonary vascular congestion or pleural effusion."
+  },
+  {
+    "condition": "Lung Opacity",
+    "text": "Lung opacity describes any area of increased density in the lung fields obscuring normal lung markings. It is a nonspecific finding that can represent consolidation, atelectasis, a mass, edema, or infection. The pattern, distribution, and clinical context help narrow the differential diagnosis."
+  },
+  {
+    "condition": "Lung Lesion",
+    "text": "A lung lesion refers to a discrete abnormal area such as a nodule or mass within the lung parenchyma. Differential diagnoses range from benign granulomas to primary lung malignancy or metastatic disease. Size, margins, and growth over time (often assessed via CT) guide further workup."
+  },
+  {
+    "condition": "Edema",
+    "text": "Pulmonary edema is fluid accumulation in the lung interstitium and alveoli, most commonly due to left heart failure (cardiogenic edema) causing elevated pulmonary venous pressure. Radiographic signs include Kerley B lines, perihilar 'bat-wing' opacities, and vascular redistribution. Non-cardiogenic causes include ARDS and fluid overload."
+  },
+  {
+    "condition": "Consolidation",
+    "text": "Consolidation is replacement of air in the alveoli with fluid, pus, blood, or cells, producing a dense, homogeneous opacity often with air bronchograms. The most common cause is pneumonia, but it can also result from pulmonary hemorrhage, aspiration, or malignancy."
+  },
+  {
+    "condition": "Pneumonia",
+    "text": "Pneumonia is infection and inflammation of the lung parenchyma, appearing radiographically as focal or multifocal consolidation, sometimes with associated pleural effusion. Bacterial pneumonia often presents as lobar consolidation, while viral or atypical pneumonia may show more diffuse, interstitial patterns. Clinical correlation (fever, cough, labs) is essential since radiographic findings alone are not fully specific."
+  },
+  {
+    "condition": "Atelectasis",
+    "text": "Atelectasis is partial or complete collapse of lung tissue due to obstruction, compression, or reduced lung volume, commonly seen postoperatively or in mucus plugging. It appears as volume loss with displacement of fissures, mediastinal shift toward the affected side, and linear or platelike opacities."
+  },
+  {
+    "condition": "Pneumothorax",
+    "text": "Pneumothorax is air in the pleural space causing partial or complete lung collapse, visible as a visceral pleural line with absent lung markings peripheral to it. Tension pneumothorax is a medical emergency marked by mediastinal shift away from the affected side and hemodynamic compromise, requiring immediate decompression."
+  },
+  {
+    "condition": "Pleural Effusion",
+    "text": "Pleural effusion is fluid accumulation in the pleural space, appearing as blunting of the costophrenic angle on upright films or a meniscus sign. Causes include heart failure (transudate), infection, malignancy, and inflammatory conditions (exudate). Large effusions may require thoracentesis for diagnosis and symptom relief."
+  },
+  {
+    "condition": "Pleural Other",
+    "text": "This category covers pleural abnormalities other than simple effusion, such as pleural thickening, calcification, or plaques — often related to prior infection, asbestos exposure, or old trauma. These findings are usually chronic and less acutely concerning than an effusion or pneumothorax."
+  },
+  {
+    "condition": "Fracture",
+    "text": "Rib or other bony fractures can be seen on chest X-ray, though CT is more sensitive for subtle fractures. Rib fractures raise concern for underlying pulmonary contusion, pneumothorax, or hemothorax, particularly after trauma, and multiple rib fractures can impair ventilation (flail chest)."
+  },
+  {
+    "condition": "Support Devices",
+    "text": "Support devices include endotracheal tubes, central venous catheters, chest tubes, pacemakers, and other medical hardware visible on the X-ray. Their position should be checked against expected anatomical landmarks (e.g., ET tube tip 3-5 cm above the carina) to rule out malposition or complications."
+  }
+]
