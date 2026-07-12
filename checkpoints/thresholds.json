@@ -1,0 +1,7 @@
+{
+  "Cardiomegaly": 0.305,
+  "Edema": 0.62,
+  "Consolidation": 0.52,
+  "Atelectasis": 0.685,
+  "Pleural Effusion": 0.465
+}
